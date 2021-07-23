@@ -47,7 +47,6 @@ const Todo = () => {
             </h3>
             <h3> Todo List</h3>
             <h3>
-              {" "}
               <Clock format={"dddd:MMMM DD:YYYY"} date={""} />
             </h3>
           </div>
